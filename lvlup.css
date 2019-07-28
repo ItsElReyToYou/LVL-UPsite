@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.carousel-inner .carousel-item.active .d-block.mx-auto.strange {
+    padding-bottom: 100px;
+}
+.carousel-inner .carousel-item .d-block.mx-auto.pika {
+    padding-bottom: 100px;
+    padding-top: 120px;
+}
+.carousel-item {
+    background-color: rgba(0,0,0,1.00);
+}
+.mr-right {
+}
+.jumbotron {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(255,255,255,1.00);
+    background-color: rgba(0,0,0,1.00);
+}
